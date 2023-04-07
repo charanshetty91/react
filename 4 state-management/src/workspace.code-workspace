@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\test-project"
+		},
+		{
+			"path": "..\\..\\function-component"
+		},
+		{
+			"path": "..\\..\\class-component"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
